@@ -35,7 +35,7 @@ body {
 /* Sections */
 
 .blue-sect {
-    background-color: #00FFFF;
+    background-color:#87CEFA;
     color: #fff;
 }
 
@@ -82,7 +82,7 @@ body {
 /* Title Section */
 
 #title {
-    background-color:#00FFFF;
+    background-color:#87CEFA;
     color: #fff;
     text-align: left;
 }
@@ -129,7 +129,7 @@ body {
 /* Testimonials */
 
 #testimonials {
-    background-color:#00FFFF
+    background-color:#4169E1;
 }
 
 .testimonial-text {
@@ -150,7 +150,7 @@ body {
 } */
 
 #press {
-    background-color:#00FFFF;
+    background-color:#4169E1;
     padding-bottom: 3%;
 }
 
