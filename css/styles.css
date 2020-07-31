@@ -16,7 +16,7 @@ body {
 
 .bg-heading {
     font-family: "Montserrat";
-    font-weight: 900;
+    font-weight: bold;
     font-size: 3.5rem;
     line-height: 1.5;
 }
@@ -66,12 +66,12 @@ body {
 .nav-link {
     font-size: 1.2rem;
     font-family: "Montserrat";
-    font-weight: 400;
-    color: #000;
+    font-weight: bold;
+    color: #fff;
 }
 
 .nav-link:hover {
-    color: #fff;
+    color: #4169E1;
 }
 
 /* Download Buttons */
