@@ -1,12 +1,12 @@
 body {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
     text-align: center;
   }
   
   h1, h2, h3, h4, h5, h6 {
-    font-family: "Montserrat";
-    font-weight: bold;
-  }
+    font-family: "Montserrat", sans-serif;
+}
   
   p {
     color: #8f8f8f;
@@ -15,9 +15,8 @@ body {
 /* Headings */
 
 .bg-heading {
-    font-family: "Montserrat";
-    font-weight: bold;
-    font-size: 3.5rem;
+    font-weight: 900;
+    font-size: 3rem;
     line-height: 1.5;
 }
 
@@ -52,8 +51,7 @@ body {
 .navbar-brand {
     font-family: "Ubuntu";
     font-size: 2.5rem;
-    font-weight: bold;
-    color: #000;
+    font-weight: 700;
 }
 .nav-item {
     padding: 0 18px;
@@ -65,8 +63,7 @@ body {
 }
 .nav-link {
     font-size: 1.2rem;
-    font-family: "Montserrat";
-    font-weight: bold;
+    font-weight: 400;
     color: #fff;
 }
 
@@ -95,11 +92,15 @@ body {
 /* Title-Image */
 
 .title-image {
-    width: 60%;
+    /* width: 60%;
     transform: rotate(25deg);
     position: absolute;
     right: 30%;
-    margin-top: 130px;
+    margin-top: 130px; */
+    width: 330px;
+	transform: rotate(15deg);
+    margin-left: 40px;
+    position: absolute;
 }
 
 /* Features Section */
@@ -107,7 +108,7 @@ body {
 #features {
     
     position: relative;
-    
+
 }
 
 .feature-title {
@@ -163,7 +164,7 @@ body {
 /* Pricing Section */
 
 #pricing {
-    padding: 100px;
+    padding: 90px;
     
 }
 
